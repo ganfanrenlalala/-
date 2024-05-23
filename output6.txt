@@ -1,0 +1,7 @@
+
+new
+worlds
+Printing stopped. Total elements printed: 2
+new
+civilizations
+Printing stopped. Total elements printed: 4
